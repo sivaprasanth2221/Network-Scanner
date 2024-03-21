@@ -1,5 +1,3 @@
-This project is a simple port scanner implemented in C. It allows users to scan a range of IP addresses for a specific port to check if it is open or closed. Below is a description that you can use to upload this project to GitHub:
-
 ---
 
 # Port Scanner in C
